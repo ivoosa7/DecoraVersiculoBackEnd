@@ -1,0 +1,3 @@
+INSERT INTO VERSICULE (TEXT, BOOK, CHAPTER, VERSE, TESTAMENT) VALUES ('Vos, porem, sois raca eleita, sacerdocio real, nacao santa, povo de propriedade exclusiva de DEUS,a fim de proclamardes as virtudes daquele que vos chamou das trevas para a sua maravilhosa luz', '1 Pedro', 2, 9, 'Novo Testamento');
+INSERT INTO VERSICULE (TEXT, BOOK, CHAPTER, VERSE, TESTAMENT) VALUES ('Ele nos libertou do imperio das trevas e nos transportou para o reino do Filho do seu amor', 'Colossenses', 1, 13, 'Novo Testamento');
+INSERT INTO VERSICULE (TEXT, BOOK, CHAPTER, VERSE, TESTAMENT) VALUES ('De novo, lhes falava Jesus, dizendo: Eu sou a Luz do mundo; quem me segue nao andaras nas trevas; pelo contrario, tera a luz da vida', 'Evangelho de Joao', 8, 12, 'Novo Testamento');
